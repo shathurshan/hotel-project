@@ -1,0 +1,88 @@
+body{
+	
+	font-size:20px;
+	background:url(room.jpg)no-repeat center center fixed;
+	-webkit-background-size:cover;
+	-o-background-size:cover;
+	-moz-background-size:cover; no-repeat center center fixed;
+
+}
+
+.container{
+	
+	width:90%;
+	margin-top:5px;
+	padding:4px;
+	
+}
+h2{
+    color:brown;
+
+}
+#header1{
+	background-color:#EDEFF3;
+	color:#FF7272;
+	text-align:center;
+	font-size:22px;
+    word-spacing: 10px;
+}
+
+
+#nav1{
+	background-color:#02F9C6;
+	color:blue;
+	padding:0;
+}
+#nav1 ul{
+	padding:0;
+	list-style:none;
+	text-align: center;
+	
+}
+#nav1 li{
+	display:inline;
+	font-size:20px;
+	padding-right:100px;
+	
+}
+
+#nav1 a{
+	text-decoration:none;
+}
+#main {
+	color:white;
+	font-size:32px;
+}
+.fac{
+	color:white;
+	font-size:25px;
+}
+input[type="submit"]{
+	border:none;
+	outline:none;
+	height:40px;
+	background:skyblue;
+	font-size:18px;
+	border-radius:20px;
+    
+	
+	
+}
+input[type="submit"]:hover{
+	cursor:pointer;
+	background:#02FC32;
+	
+}
+input[type="submit"]:active{
+	color:#fff;
+}
+
+#tb{
+    border:2px; 
+}
+#tb th,td{
+    
+    padding: 20px;
+    color:darkred;
+    background-color: burlywood;
+}
