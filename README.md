@@ -1,2 +1,2 @@
 # hotel-project
-Our Year II Semester II website project
+Our Year II Semester II website project.
